@@ -1,0 +1,23 @@
+{
+  "name": "testdemoautomation",
+  "version": "1.0.0",
+  "description": "ריפוזיטורי שנוצר אוטומטית לפי שם התיקיה המקומית.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKomanov/TestDemoAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AlexKomanov/TestDemoAutomation/issues"
+  },
+  "homepage": "https://github.com/AlexKomanov/TestDemoAutomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10"
+  }
+}
