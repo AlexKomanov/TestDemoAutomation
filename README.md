@@ -3,3 +3,5 @@
 
 
 סנכרון ראשון עם הריפו המרוחק 🚀
+
+# Trigger GitHub Actions
